@@ -1,4 +1,1 @@
-# A2
-prp
-
-Eigenfaces
+# Face Recognition using Eigenfaces
